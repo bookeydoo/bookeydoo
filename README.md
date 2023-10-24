@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @bookeydoo/Waleed amgad
-- 👀 I’m interested in Robotics/desktop app development/problem solving/0
-- 🌱 I’m currently learning arduino / qt / c++ dev
+- 👀 I’m interested in Robotics/desktop app development/problem solving/embedded systems development 
+
+- 🌱 I’m currently learning arduino / qt / c++
+
 - 💞️ I’m looking to collaborate on any projects that i can work on
 - 📫 How to reach me waleedbookey@gmail.com
 - bookeydoo on discord
